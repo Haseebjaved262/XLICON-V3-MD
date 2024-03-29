@@ -17,17 +17,17 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
  //  * @project_name : XLICON-V3-MD
- //  * @author : salmanytofficial
- //  * @youtube : https://www.youtube.com/@s4salmanyt
+ //  * @author : haseebjaved
+ //  * @facebook : https://www.facebook.com/@haseebjaved261
 //   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //* 
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//Instagram: haseebjaved261
+//Telegram: t.me/usamakhan261
+//GitHub: @haseebjaved262
+//WhatsApp: +923225071538
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
@@ -41,7 +41,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //owmner v card
 //________________________________________________________________________________________________________
-global.ytname = process.env.Instagram_NAME || "Insta: @HaseebJaved261" //ur Instagram chanel name
+global.Instaname = process.env.Instagram_NAME || "Insta: @HaseebJaved261" //ur Instagram chanel name
 //________________________________________________________________________________________________________
 global.socialm = process.env.MEDIA || "Facebook:  HaseebJaved261" //ur github or insta name
 //________________________________________________________________________________________________________
@@ -74,7 +74,7 @@ global.creator = process.env.GL_DEVS || "923225071538@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["923184070915"] // Premium User
+global.premium = process.env.GL_VIP || ["923225071538"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
